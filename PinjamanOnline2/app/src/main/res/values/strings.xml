@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pinjaman Online</string>
+    <string name="input_uang">Masukkan Pinjaman :</string>
+    <string name="input_bulan">Tenor (bulan) :</string>
+    <string name="bayar">Jumlah Dibayar :</string>
+    <string name="cair">Jumlah Cair : </string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="verif">Diawasi oleh : </string>
+
+</resources>
